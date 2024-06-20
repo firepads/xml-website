@@ -11,6 +11,14 @@
     <!-- JS FRAMEWORKS -->
     <script type="text/javascript" src="js/lib/jquery.min.js"> </script>
     <script type="text/javascript" src="js/lib/bootstrap.min.js"> </script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1060695164961482"
+crossorigin="anonymous"></script>
+<script async custom-element="amp-auto-ads"
+src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js">
+</script>
+<link rel=”canonical” href=”https://firepads.github.io"/>
+<meta name="google-adsense-account" content="ca-pub-1060695164961482">	
+
 </head>
 <body onload="restoreStyle('big.font.size')">
 
